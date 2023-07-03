@@ -1,0 +1,26 @@
+/*section p.paragraphe1{
+    background-color: blue;
+    color: red;
+}*/
+/*
+section p[class="paragraphe2"]{
+    background-color: green;
+    color: white;
+}*/
+/*
+div#last{
+    background-color: green;
+    color: white;
+}*/
+
+
+#last
+{
+    background-color: green;
+    color: white;
+}
+#first
+{
+    background-color: brown;
+    color: white;
+}
